@@ -35,15 +35,15 @@ namespace OOPS_Programs
 
     class MainApp
     {
-        static void Main(string[] args)
-        {
-            static void Select(RunTimePolymorphism animal)
-            {
-                animal.Animal();
-            }
+        //static void Main(string[] args)
+        //{
+        //    static void Select(RunTimePolymorphism animal)
+        //    {
+        //        animal.Animal();
+        //    }
 
-            Select(new Dog());
-            Select(new Cat());
-        }
+        //    Select(new Dog());
+        //    Select(new Cat());
+        //}
     }
 }

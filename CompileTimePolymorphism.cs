@@ -21,13 +21,13 @@ namespace OOPS_Programs
         {
             Console.WriteLine($"Hii {FName}");
         }
-        static void Main(string[] args)
-        {
-            CompileTimePolymorphism com = new CompileTimePolymorphism();
-            com.Display("Vaishnavi");
-            com.Display("Vaishnavi", "Kuber");
-            com.Display("Vaishnavi", "G", "Kuber");
-        }
+        //static void Main(string[] args)
+        //{
+        //    CompileTimePolymorphism com = new CompileTimePolymorphism();
+        //    com.Display("Vaishnavi");
+        //    com.Display("Vaishnavi", "Kuber");
+        //    com.Display("Vaishnavi", "G", "Kuber");
+        //}
 
     }
 }

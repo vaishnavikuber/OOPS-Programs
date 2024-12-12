@@ -1,0 +1,14 @@
+C:\Users\vaish\source\repos\OOPS Programs\OOPS Programs\bin\Debug\netcoreapp3.1\OOPS_Programs.exe
+C:\Users\vaish\source\repos\OOPS Programs\OOPS Programs\bin\Debug\netcoreapp3.1\OOPS_Programs.deps.json
+C:\Users\vaish\source\repos\OOPS Programs\OOPS Programs\bin\Debug\netcoreapp3.1\OOPS_Programs.runtimeconfig.json
+C:\Users\vaish\source\repos\OOPS Programs\OOPS Programs\bin\Debug\netcoreapp3.1\OOPS_Programs.runtimeconfig.dev.json
+C:\Users\vaish\source\repos\OOPS Programs\OOPS Programs\bin\Debug\netcoreapp3.1\OOPS_Programs.dll
+C:\Users\vaish\source\repos\OOPS Programs\OOPS Programs\bin\Debug\netcoreapp3.1\OOPS_Programs.pdb
+C:\Users\vaish\source\repos\OOPS Programs\OOPS Programs\obj\Debug\netcoreapp3.1\OOPS_Programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaish\source\repos\OOPS Programs\OOPS Programs\obj\Debug\netcoreapp3.1\OOPS_Programs.AssemblyInfoInputs.cache
+C:\Users\vaish\source\repos\OOPS Programs\OOPS Programs\obj\Debug\netcoreapp3.1\OOPS_Programs.AssemblyInfo.cs
+C:\Users\vaish\source\repos\OOPS Programs\OOPS Programs\obj\Debug\netcoreapp3.1\OOPS_Programs.csproj.CoreCompileInputs.cache
+C:\Users\vaish\source\repos\OOPS Programs\OOPS Programs\obj\Debug\netcoreapp3.1\OOPS_Programs.sourcelink.json
+C:\Users\vaish\source\repos\OOPS Programs\OOPS Programs\obj\Debug\netcoreapp3.1\OOPS_Programs.dll
+C:\Users\vaish\source\repos\OOPS Programs\OOPS Programs\obj\Debug\netcoreapp3.1\OOPS_Programs.pdb
+C:\Users\vaish\source\repos\OOPS Programs\OOPS Programs\obj\Debug\netcoreapp3.1\OOPS_Programs.genruntimeconfig.cache
